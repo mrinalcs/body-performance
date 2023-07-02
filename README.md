@@ -32,4 +32,4 @@ heres basic summary of the data
 | Max.      | 64.00 |                  | Max.   :193.8 | Max.   :138.10 | Max.   :78.40 | Max.   :156.2 | Max.   :201.0 | Max.   :70.50 | Max.   :213.00 | Max.   :80.00 | Max.   :303.0 |
 
 
-## codes in script.R file
+## codes in <a href='https://github.com/mrinalcs/Statistical-Analysis-on-Body-Performance/blob/main/script.R'>script.R</a> file
